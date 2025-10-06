@@ -1,3 +1,7 @@
-x = 2
-apple = 2/4
-y = apple
+def sum( a,b ):
+    output = a + b 
+    return output
+
+myresult = sum(1.55 , 2.09)
+
+    
